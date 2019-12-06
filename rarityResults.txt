@@ -1,0 +1,5 @@
+1 - Rare: 5494
+2 - Very Rare: 2721
+3 - Import: 1238
+4 - Exotic: 438
+5 - Black Market: 109
